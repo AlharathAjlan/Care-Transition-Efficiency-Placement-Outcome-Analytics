@@ -14,7 +14,8 @@ Before any modeling, we need this in proper time-series shape — sorted, contin
 
 Do missing dates cluster on weekends, or are they scattered / clustered in specific periods?
 
-## the step has completed -----
+## the step has completed 
+-----
 
 
 ## Step 2: Forecasting Model — Pipeline Volumes
@@ -29,4 +30,5 @@ Forecasting models need the past encoded as usable inputs — lags (past values)
 #### Note : try Changing to 60/40 train and test for the model 
 #### Note : try Building the differenced forecasting model 
 
-## the step has completed  ------
+## the step has completed 
+------
